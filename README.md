@@ -1,5 +1,5 @@
-# EEditor
-Welcome to EEditor GitHub page! Here we host some public files, including released versions.
+# EEditor - Everybody Edits offline editor
+Welcome to the EEditor GitHub page! Here we host some public files, including released versions.
 
 * Want to download EEditor? [Go to releases](https://github.com/Madis0/eeditor/releases/latest) and click on EEditor.zip.
 * Need help? [See our community wiki](https://github.com/Madis0/eeditor/wiki).
