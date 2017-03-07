@@ -1,5 +1,6 @@
 # EEditor - Everybody Edits offline editor  
   
+### EEditor development is currently on hiatus.  
 Welcome to the EEditor GitHub page! Here we host some public files, including released versions.  
   
 * Want to download EEditor? [Go to releases](https://github.com/Madis0/eeditor/releases/latest) and download the newest EEditor.  
