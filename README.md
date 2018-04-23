@@ -1,4 +1,6 @@
-# EEditor - Everybody Edits offline editor  
+# People with Malwarebytes 3.0 could have issues with EEditor because of a new heuristic method that Malwarebytes 3.0 added.  
+
+## EEditor - Everybody Edits offline editor  
    
 Welcome to the EEditor GitHub page! Here we host some public files, including released versions.  
   
